@@ -4,6 +4,9 @@ AI-powered FAQ and customer support automation. A secure REST API built with
 Node.js, Express.js, MongoDB (Mongoose), JWT authentication, bcrypt password
 hashing, and Google Gemini AI for automated FAQ generation.
 
+For Note that if you actually like to run my project use npm install command to install the dependencies as i cannot upload 4653files into github as the node_modules folder under my project folder
+
+
 ## 1. Software Requirements
 - Node.js v18+
 - npm v9+
