@@ -1,12 +1,1 @@
-# Server
-PORT=5000
-NODE_ENV=development
 
-# Database
-MONGO_URI=mongodb+srv://mitthunsekar_db_user:rFXFv7QRmA2R3dAz@faqcluster.hfadx6k.mongodb.net/?appName=FAQCluster
-# Auth
-JWT_SECRET=FAQ_Assistant_2026_MySecret_839274_X7
-JWT_EXPIRES_IN=7d
-
-# AI Service (Google Gemini)
-GEMINI_API_KEY=AQ.Ab8RN6L7ZKMCDJpWU-meZgTocnJuv4IWUXRi5DflacyDQG1lyA
